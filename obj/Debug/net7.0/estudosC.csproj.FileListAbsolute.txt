@@ -1,0 +1,15 @@
+D:\Users\Usuario\Desktop\Mateus\estudosC\bin\Debug\net7.0\estudosC.exe
+D:\Users\Usuario\Desktop\Mateus\estudosC\bin\Debug\net7.0\estudosC.deps.json
+D:\Users\Usuario\Desktop\Mateus\estudosC\bin\Debug\net7.0\estudosC.runtimeconfig.json
+D:\Users\Usuario\Desktop\Mateus\estudosC\bin\Debug\net7.0\estudosC.dll
+D:\Users\Usuario\Desktop\Mateus\estudosC\bin\Debug\net7.0\estudosC.pdb
+D:\Users\Usuario\Desktop\Mateus\estudosC\obj\Debug\net7.0\estudosC.csproj.AssemblyReference.cache
+D:\Users\Usuario\Desktop\Mateus\estudosC\obj\Debug\net7.0\estudosC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Usuario\Desktop\Mateus\estudosC\obj\Debug\net7.0\estudosC.AssemblyInfoInputs.cache
+D:\Users\Usuario\Desktop\Mateus\estudosC\obj\Debug\net7.0\estudosC.AssemblyInfo.cs
+D:\Users\Usuario\Desktop\Mateus\estudosC\obj\Debug\net7.0\estudosC.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Desktop\Mateus\estudosC\obj\Debug\net7.0\estudosC.dll
+D:\Users\Usuario\Desktop\Mateus\estudosC\obj\Debug\net7.0\refint\estudosC.dll
+D:\Users\Usuario\Desktop\Mateus\estudosC\obj\Debug\net7.0\estudosC.pdb
+D:\Users\Usuario\Desktop\Mateus\estudosC\obj\Debug\net7.0\estudosC.genruntimeconfig.cache
+D:\Users\Usuario\Desktop\Mateus\estudosC\obj\Debug\net7.0\ref\estudosC.dll
